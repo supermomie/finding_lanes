@@ -1,2 +1,5 @@
 .mp4
-.ipynb_checkpoints/
+.ipynb_checkpoints
+.DS_Store
+.vscode
+.idea
